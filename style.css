@@ -1,0 +1,107 @@
+.header{
+
+    background-color: #F0FFF0;
+}
+.banner{
+
+    margin-top: 100px;
+}
+.heighlight-fulltext{
+
+    color: #FD511A;
+}
+.heighlight-schedeul{
+
+    color:#21B573 ;
+}
+.heading{
+
+    font-size: 50px;
+}
+
+.get-started-btn{
+
+    background-color: #21B573;
+    color: #D8D8D8;
+    border-radius: 50px;
+    border: none;
+    padding: 10px 30px;
+    font-size: 20px;
+    
+}
+.Singin{
+
+    background-color: #21B573;
+
+    border-radius: 50px;
+    border: none;
+    padding: 2px 10px;
+    margin-top: 5px;
+   
+
+  
+}
+.singin-color{
+
+    color: #D8D8D8;
+}
+.blog{
+
+    margin-top: 100px;
+    background-color: #F8FFFB;
+}
+.boxshadow{
+
+    box-shadow: 5px 5px 5px 5px lightgray;
+    padding: 20px;
+    background-color: #FFFFFF;
+}
+.Cources{
+
+    margin-top: 100px;
+}
+.heading-cources{
+
+    margin-bottom: 50px;
+    text-align: center;
+}
+.paddingreduse{
+
+    padding: 5px 20px;
+}
+.Testimonial{
+
+    margin-top: 100px;
+   
+}
+.heading-testimonial{
+
+    margin-bottom: 50px;
+    text-align: center;
+}
+.list-style{
+
+    list-style-type: none;
+}
+.center-heading{
+
+    text-align: center;
+}
+.footer{
+
+    background-color: #282531;
+    margin-top: 100px;
+   
+}
+.color-text{
+
+    color: #D8D8D8;
+}
+.last-text{
+
+    text-align: center;
+}
+.margintop{
+
+    margin-top: 50px;
+}
